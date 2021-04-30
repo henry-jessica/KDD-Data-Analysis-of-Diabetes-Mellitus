@@ -1,4 +1,4 @@
-# KDD-Data-Analysis-of-Diabetes-Mellitus
+# KDD Data Analysis of Diabetes Mellitus
 
 Question Problem: Is it possible to find patterns of possible causes of diabetes, avoiding
 so late diagnoses?
