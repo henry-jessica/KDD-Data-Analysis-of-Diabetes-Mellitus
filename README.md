@@ -22,3 +22,10 @@ Dataset from: https://www.kaggle.com/himanshu86503/diabetes
 
 
 ![image](https://github.com/henry-jessica/KDD-Data-Analysis-of-Diabetes-Mellitus/blob/main/%20.jpg)
+
+
+
+### Test - Algorithms tree and Logistic Regression
+![image](https://github.com/henry-jessica/KDD-Data-Analysis-of-Diabetes-Mellitus/blob/main/Test%20.jpg)
+
+
