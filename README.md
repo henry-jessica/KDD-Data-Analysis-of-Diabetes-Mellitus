@@ -19,3 +19,6 @@ Knowledge Discovery in Databases (KDD)
 
 
 Dataset from: https://www.kaggle.com/himanshu86503/diabetes
+
+
+![image](https://github.com/henry-jessica/KDD-Data-Analysis-of-Diabetes-Mellitus/blob/main/%20.jpg)
